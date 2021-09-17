@@ -24,3 +24,8 @@ Intrested in making it possible? Consider [joining The Pins Team](https://madeby
 but atleast we're setting up our online presence for the future.
 
 * [Andrei Jiroh](https://github.com/ajhalili2006), founder and the team lead
+
+### Supporting us finanically
+
+We think we want to be independent from privacy-invading ads, but this might make us out of the business. Maintaining open-source projects take time
+and resources, so if you want to help us keep afloat, we'll setup our donation page soon. Thanks for giving us some coffee in advance!
