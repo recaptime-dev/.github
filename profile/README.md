@@ -10,7 +10,7 @@ In meanwhile, we'll build tools as we make our own platform possible in the futu
 hassle of manually verify their identity and other stuff on your own.
 
 Currently, [we do an newsletter (aka run our own open-source blog)](https://gitlab.com/RecapTime/newsletter) where we draft and publish our stuff on
-Medium and DevTo.
+Medium and DevTo, but we have other sutff sadly to do.
 
 ## Follow us
 
@@ -20,7 +20,7 @@ Medium and DevTo.
 
 ## Meet The Team
 
-Intrested in making it possible? Consider [joining The Pins Team](https://madebythepinshub.gitlab.io/join) and make that happen. We're not an company yet,
+Intrested in making it possible? Consider [joining The Pins Team](https://recaptime.gitlab.io/join) and make that happen. We're not an company yet,
 but atleast we're setting up our online presence for the future.
 
 * [Andrei Jiroh](https://github.com/ajhalili2006), founder and the team lead
