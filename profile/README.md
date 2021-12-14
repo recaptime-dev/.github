@@ -1,6 +1,6 @@
 # Hi there 👋
 
-We're Recap Time, an division here at [The Pins Team](https://github.com/MadeByThePinsHub), where we'll build an future platform with
+We're Recap Time, ~~an division here at [The Pins Team](https://github.com/MadeByThePinsHub),~~ where we'll build an future platform with
 ActivityPub and Matrix specs as first-class citizens, fully open-sourced. It's still under Andrei Jiroh's Ideas List yet, so it maybe expected
 to be stable roughly 10-15 years from now.
 
