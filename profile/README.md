@@ -1,13 +1,6 @@
 # Hi there 👋
 
-We're Recap Time, formerly known as [The Pins Team](https://github.com/MadeByThePinsHub), where we'll build an future platform with
-ActivityPub and Matrix specs as first-class citizens, fully open-sourced. It's still under Andrei Jiroh's Ideas List yet, so it maybe expected
-to be stable roughly 10-15 years from now.
-
-In meanwhile, we'll build tools as we make our own platform possible in the future, including:
-
-* [Verification Process Endpoint](https://recaptime.gitlab.io/verify) - An project for platforms to add verified badges to authentic users without the
-hassle of manually verify their identity and other stuff on your own.
+We're Recap Time, formerly known as [The Pins Team](https://github.com/MadeByThePinsHub), where we build open-source tools and we're behind [Verification Process Endpoint](https://recaptime.gitlab.io/verify) (an project to confirm/verify users the open-source and transparent way and to find any possible alternative accounts), Community Lores (documentation arc for our projects and the home of Hermitcraft Video Transcripts used in the unofficial Hermitcraft Recap podcast) and Gitpodified Workspace Images (opinionated Gitpod workspace images based on upstream, with sprinkles and even more choices).
 
 Currently, [we do an newsletter (aka run our own open-source blog)](https://gitlab.com/RecapTime/newsletter) where we draft and publish our stuff on
 Medium and DevTo, but we have other sutff sadly to do.
