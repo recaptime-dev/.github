@@ -1,31 +1,27 @@
 # Hi there 👋
 
-We're Recap Time, formerly known as [The Pins Team](https://github.com/MadeByThePinsHub), where we build open-source tools and we're behind [Verification Process Endpoint](https://gitlab.com/RecapTime/verify) (an project to confirm/verify users the open-source and transparent way and to find any possible alternative accounts), [Community Lores](https://gitlab.com/community-lores) (documentation arc for our projects and the home of [Hermitcraft Video Transcripts](https://gitlab.com/community-lores/hermitcraft/transcripts) used in the unofficial Hermitcraft Recap podcast) and [Gitpodified Workspace Images](https://gitlab.com/gitpodify/gitpodified-workspace-images) (opinionated Gitpod workspace images based on upstream, with sprinkles and even more choices).
+We're Recap Time (or just Recap Time Squad, formerly known as [The Pins Team](https://github.com/MadeByThePinsHub)), an organization of sorts for
+different open-source projects we host and sometimes we build ourselves, through we're not officially a company yet. We're behind different projects
+including [Verification Process Endpoint](https://gitlab.com/RecapTime/verify) (an project to confirm/verify users the open-source and transparent way and to find any possible alternative accounts), [Community Lores](https://gitlab.com/community-lores) (documentation arc for wikis and docs we maintain/host) and [Gitpodified Workspace Images](https://gitlab.com/gitpodify/gitpodified-workspace-images) (opinionated Gitpod workspace images based on upstream, with additional tools for your needs).
 
-Currently, [we do an newsletter (aka run our own open-source blog)](https://gitlab.com/RecapTime/newsletter) where we draft and publish our stuff on
-Medium and DevTo, but we have other sutff sadly to do.
+### 👥 Meet The Team
 
-## Follow us
+Intrested in joining the crew and help maintain projects and more? Consider [applying for be a squad member](https://go.recaptime.eu.org/join-crew)!
+We're not (legally) an company yet, but atleast we're setting up our online presence for the future.
 
-* Twitter: [@RecapTime](https://twitter.com/RecapTime)
-* DevTo: <https://dev.to/RecapTime>
-* On the fediverse: `@RecapTime@mastodon.online`
+* [~ajhalili2006](https://github.com/ajhalili2006), our founder and current squad lead, mostly the lead open-source maintainer and our
+resident backend Node.js and Deno developer
 
-## Meet The Team
+### ♥ Supporting the crew
 
-Intrested in making it possible? Consider [joining the squad](https://go.rtapp.tk/join-squad) and make that happen. We're not an company yet,
-but atleast we're setting up our online presence for the future.
+We think we want to be independent from ads and VC hellscapes, but this might make us ~~out of the business~~ abandon projects completely
+due to burnout and mostly working on our free time. Maintaining open-source projects take time and resources, so if you want to help us keep afloat,
+thanks for support but we're currently ironing out how do we accept donations.
 
-* [Andrei Jiroh](https://github.com/ajhalili2006), founder and the team lead
+### 👓 Appendix
 
-### Supporting us finanically
-
-We think we want to be independent from privacy-invading ads, but this might make us out of the business. Maintaining open-source projects take time
-and resources, so if you want to help us keep afloat, we'll setup our donation page soon. Thanks for giving us some coffee in advance!
-
-* Links coming soon!
-
----
+Follow us on [Twitter](https://twitter.com/RecapTime), [Substack](https://recaptime.substack.com) or [on the fediverse](https://mastodon.online/@RecapTime).
+Read our handbook and more [on our Squad Wiki](https://wiki.recaptime.eu.org), hosted on [Miraheze](https://miraheze.org).
 
 <details>
   <summary>Why you got an rebrand?</summary>
