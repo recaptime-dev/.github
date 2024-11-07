@@ -1,6 +1,6 @@
-open_collective: recaptime-dev
-liberapay: recaptime-dev
+# yaml-language-server: $schema=https://json.schemastore.org/github-funding.json
 custom:
-  - https://recaptime.eu.org/sponsors
+  - https://hcb.hackclub.com/donations/start/recaptime-dev
+  - https://recaptime.dev/donate
 github:
   - ajhalili2006
