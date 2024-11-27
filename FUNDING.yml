@@ -1,6 +1,9 @@
 # yaml-language-server: $schema=https://json.schemastore.org/github-funding.json
+
+# If hosted within lorebooks-wiki (or another afliated RecapTime.dev org), feel free to
+# update the funding links with your own. Otherwise, you do you.
+github: [ajhalili2006]
 custom:
-  - https://hcb.hackclub.com/donations/start/recaptime-dev
-  - https://recaptime.dev/donate
-github:
-  - ajhalili2006
+- https://hcb.hackclub.com/donations/start/recaptime-dev
+- https://lorebooks.wiki/donate
+- https://sponsors.andreijiroh.dev/?ref=recaptime-dev
