@@ -1,5 +1,14 @@
 # Contributor Covenant Code of Conduct
 
+> _**The [Hack Club Code of Conduct] also applies to Recap Time Squad's public spaces, not just our Slack channels in [Hack Club Slack].**_
+>
+> _If a Hack Clubber is involved in a CoC-related incident (including HQ/HCB staff) outside Slack,_
+> _please contact a community moderator/maintainer or squad member first before emailing_
+> _`conduct@hackclub.com` since it happened outside its community spaces._
+
+[Hack Club Code of Conduct]: https://github.com/hackclub/.github/blob/main/CODE_OF_CONDUCT.md
+[Hack Club Slack]: https://hackclub.com/slack
+
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
@@ -59,12 +68,13 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-<abuse@recaptime.eu.org> or <modteam@recaptime.eu.org>.
+reported to the community leaders responsible for enforcement at <abuse@recaptime.dev>.
+Alternatively, you can use [our abuse report online form] to submit one.
 All complaints will be reviewed and investigated promptly and fairly.
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+All community leaders are obligated to respect the privacy and security of the reporter of any incident.
+
+[our abuse report online form]: https://forms.recaptime.dev/report-abuse?type=coc
 
 ## Enforcement Guidelines
 
@@ -133,14 +143,16 @@ For answers to common questions about this code of conduct, see the FAQ at
 
 ## Appendix
 
-### The `abuse@` and `modteam@` aliases
+### The `abuse@` alias
 
-While you can email CCoC violations to our abuse email alias, the scope of the abuse email alias covers more than CCoC violations and content needs moderator review and it's our legal team that review them.
-
-Please note that email to the `modteam@recaptime.eu.org` alias will be forwarded to all of our community moderation team, alongside the leadership team (also known as `@recaptime-dev/squad-leads`) for assistance in case of large backlog.
+The `abuse@recaptime.dev` is used by both the community moderators and our team
+for not only handling mod reports but also for receiving abuse notifications.
 
 ### Violations affecting other communities (or coming from other communities)
 
-If we receive a violation report that either affects or comes from other communities, we have limited moderation powers over what's happening outside our spaces, either public or within internal channels.
+If we receive a violation report that either affects or comes from other communities,
+we have limited moderation powers over what's happening outside our spaces, either public
+or within internal channels.
 
-If that's the case, a member from our moderation team will simply forward you case on your behalf if our bandwidth allows.
+If that's the case, a member from our moderation team will simply forward you case on your
+behalf if our bandwidth allows and will update you through.
