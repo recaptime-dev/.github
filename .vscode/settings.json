@@ -2,6 +2,7 @@
     "yaml.schemas": {
         "https://json.schemastore.org/github-funding.json": [
             "FUNDING.yml"
-        ]
+        ],
+        "https://json.schemastore.org/github-issue-config.json": "file:///workspaces/profile-readmes/recaptime-dev/gh-meta/ISSUE_TEMPLATE/config.yml"
     }
 }

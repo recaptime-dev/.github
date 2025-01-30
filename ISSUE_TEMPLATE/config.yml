@@ -1,0 +1,8 @@
+# base template for links
+contact_links:
+  - name: Reporting security vulnerability?
+    url: https://recaptime.dev/contact/security
+    about: If your issue is related to a security issue, please do not report it publicly.
+  - name: Looking for meta discussions
+    url: https://wiki.recaptime.dev/handbook/issue-trackers#meta
+    about: TBD
